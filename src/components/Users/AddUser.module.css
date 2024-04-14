@@ -29,18 +29,5 @@
     border-color: #4d90fe;
   }
   
-  .input button {
-    padding: 0.5rem 1rem;
-    font: inherit;
-    cursor: pointer;
-    background-color: #4d90fe;
-    color: white;
-    border: none;
-    border-radius: 4px;
-  }
   
-  .input button:hover,
-  .input button:active {
-    background-color: #357ae8;
-  }
   
